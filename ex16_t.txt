@@ -1,0 +1,5 @@
+do you want to read
+what can i do for you
+continue to hehe
+contains(text(),'www')
+text()='www'
